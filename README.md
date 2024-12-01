@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amritmaniaryal
 - 👀 I’m interested in Data Science, Machine Learning, and Software Development
-- 🌱 I’m currently working in a dotnet project
+- 🌱 I’m currently studying Master of Science in Computer Science (MSCS) at Miami University.
 - 💞️ I’m looking for a summer internship (2025)
 - 📫 You can reach out to me through my github profile, or you can follow me on instagram @amritmani
 
