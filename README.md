@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @amritmaniaryal
-- 👀 I’m interested in Data Science, Machine Learning, and Software Development
+- 👀 I’m interested in Data Engineering, Data Science, Machine Learning, and Software Development
 - 🌱 I’m currently studying Master of Science in Computer Science (MSCS) at Miami University.
-- 💞️ I’m looking for a summer internship (2025)
+- 💞️ I’m looking to graduate in May 2026.
+- My preference is towards data engineering roles.
 - 📫 You can reach out to me through my github profile, or you can follow me on instagram @amritmani
 
 <!---
