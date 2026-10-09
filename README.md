@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amritmaniaryal
-- 👀 I’m interested in Data Engineering, Data Science, Machine Learning, and Software Development.
+- 👀 I’m interested in Data Engineering, Data Science, AI, and Software Development.
 - 🌱 I've graduated with a Master of Science in Computer Science (MSCS) from Miami University.
 - My preference is towards data engineering roles.
 - 📫 You can reach out to me through my github profile, or you can follow me on instagram @amritmani
